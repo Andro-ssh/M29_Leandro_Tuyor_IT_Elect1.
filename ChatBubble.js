@@ -16,4 +16,4 @@ export default function ChatBubble({ text, isMe }) {
       <Text style={{ color: isMe ? "pink" : "black" }}>{text}</Text>
     </View>
   );
-}
+}console.log('ChatBubble ChatScreem CommentSection') ChatScreen.js CommentSection.js
